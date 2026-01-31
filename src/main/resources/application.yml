@@ -1,0 +1,9 @@
+dgs:
+  graphql:
+    graphiql:
+      enabled: true
+
+logging:
+  level:
+    root: INFO
+    com.demo: DEBUG
